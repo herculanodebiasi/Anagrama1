@@ -124,5 +124,4 @@ public class About extends JDialog {
     private javax.swing.JTextArea copyrightTextArea;
     private javax.swing.JPanel mainPanel;
     // End of variables declaration//GEN-END:variables
-
 }
